@@ -3,6 +3,11 @@
 This includes HTML, CSS, and JavaScript to create a responsive admin dashboard with light and dark mode theme.
 It has CSS transitions and animations for some cool animation effects.
 
+It was built with:
+- HTML
+- CSS
+- JavaScript
+
 Light Mode.
 
 ![Screenshot 2025-02-28 135047](https://github.com/user-attachments/assets/ac6fea06-e6a4-4dd0-8679-16338ac85bd7)
