@@ -1,12 +1,23 @@
-# Admin-Dashboard
+## 📊 Admin Dashboard
 
-This includes HTML, CSS, and JavaScript to create a responsive admin dashboard with light and dark mode theme.
-It has CSS transitions and animations for some cool animation effects.
+A responsive admin dashboard with **light & dark mode support**, built for smooth UI interaction and modern usability. Includes **CSS transitions and animations** for enhanced visual feedback.
 
-It was built with:
-- HTML
-- CSS
-- JavaScript
+---
+
+### ⚙️ Features
+- Light & Dark mode theme toggle  
+- Responsive layout (desktop & mobile friendly)  
+- Smooth CSS transitions & animations  
+- Clean, modern UI structure  
+
+---
+
+### 🛠️ Built With
+![HTML](https://img.shields.io/badge/HTML-0f0f0f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0f0f0f?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
 
 Light Mode.
 
